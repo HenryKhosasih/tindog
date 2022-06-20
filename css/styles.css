@@ -7,13 +7,12 @@ p {
     color: #8f8f8f;
 }
 
-
 /* Headings */
 
 .big-heading {
     font-size: 3.5rem;
     line-height: 1.5;
-    color: white;
+    color: #fff;
 }
 
 .section-heading {
@@ -29,11 +28,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .coloured-section {
     background-color: #ff4c68;
-    color: white;
+    color: #fff;
 }
 
 .white-section {
-    background-color: white;
+    background-color: #fff;
 }
 
 /* Container */
